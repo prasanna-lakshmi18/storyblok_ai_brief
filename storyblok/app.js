@@ -3,7 +3,7 @@
     // --- Configuration ---
     // IMPORTANT: Replace this with the actual URL of your deployed Netlify Function.
     // For now, it's a placeholder. Example: 'https://your-netlify-site.netlify.app/.netlify/functions/generate-brief'
-    const FASTAPI_BACKEND_URL = 'YOUR_NETLIFY_FUNCTION_URL_HERE'; // <<< REMEMBER TO UPDATE THIS LATER!
+    const FASTAPI_BACKEND_URL = 'https://musical-croissant-7493c1.netlify.app'; // <<< REMEMBER TO UPDATE THIS LATER!
 
     // --- DOM Elements ---
     const titleInput = document.getElementById('title');
